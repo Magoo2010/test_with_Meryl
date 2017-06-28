@@ -1,0 +1,36 @@
+3.3.3 Add/Update Dimensions and Annotations
+	Actor:	Engineering Designer
+
+Using the appropriate toolset for the Aircraft Program concerned, the Engineering Designer
+shall add/update the required dimensions and annotations on the 2D drawing in-line with the
+appropriate methods and procedures.
+
+A1079 - Structures, Systems Installation and Cabin Installation Definition Dossier Top Level
+Rules
+
+ABD0004.2 - Mechanical Drawing Set - Definition
+
+ABD0004.3 - Electrical Drawing Set - Definition
+
+M2943 - Rules for Design Data Sets Created for Structure Design, Mechanical and Electrical
+System Installation, Cabin Installation
+
+M2881 - Generality of Structure Design Data Set Content - Index
+
+M2962 - Rules for Generality on System & Equipment Installation Design Data Set Content
+
+3.3.4 Create/Update Enriched Geometrical Reference Model
+	Actor:	Engineering Designer
+
+From A350 aircraft program onwards an alternative way of creating/updating a Design Data
+Set for Electrical Systems Installation shall be adopted. This necessitates the "enriching" of the
+GRM by adding/updating attributes of the definition stored within the design solution, e.g.
+fasteners, labels, bondings, etc.
+
+GRM enrichment provides all the necessary attributes to create a complete 3D design
+definition.
+
+The Engineering Designer shall enrich/update the loaded GRM with the necessary attributes
+using the appropriate tools, methods and procedures.
+
+M2988 - Rules to Generate a Full 3D Definition Dossier
