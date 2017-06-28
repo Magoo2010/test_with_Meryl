@@ -20,7 +20,7 @@ M2881 - Generality of Structure Design Data Set Content - Index
 M2962 - Rules for Generality on System & Equipment Installation Design Data Set Content
 
 3.3.4 Create/Update Enriched Geometrical Reference Model
-	Actor:	Engineering Designer
+	Actor:	Stress Designer
 
 From A350 aircraft program onwards an alternative way of creating/updating a Design Data
 Set for Electrical Systems Installation shall be adopted. This necessitates the "enriching" of the
