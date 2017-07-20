@@ -2,13 +2,12 @@
 markup test - this plain text
 **this is bold**
 *this is italic*
-# this is Heading 1 use #
-
-## this as a Sub-heading (heading 2)
-
-### This is a deeper heading (heading 3)
-
-###### 6 headings max
+# Heading 1
+## Heading 2
+### Heading 3
+#### HeadingG 4
+##### Heading 5
+###### Heading 6 = max
  
 Paragraphs are separated
 by a blank line.
