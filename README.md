@@ -12,7 +12,7 @@ markup test - this plain text
 Paragraphs are separated
 by a blank line. but 
 can have
-as many carriagereturns
+as many carriage returns
 in the raw text as
 you
 like.
