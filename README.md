@@ -4,9 +4,11 @@ markup test - this plain text
 *this is italic*
 # this is Heading 1 use #
 
-## this as a Sub-heading (heading 2) use ##
+## this as a Sub-heading (heading 2)
 
-### This is a deeper heading (heading 3) use ###
+### This is a deeper heading (heading 3)
+
+######### 9 headings?
  
 Paragraphs are separated
 by a blank line.
