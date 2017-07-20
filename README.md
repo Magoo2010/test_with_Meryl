@@ -10,7 +10,12 @@ markup test - this plain text
 ###### Heading 6 = max
  
 Paragraphs are separated
-by a blank line.
+by a blank line. but 
+can have
+as many carridgereturns
+in the raw text as
+you
+like.
 
 Two spaces at the end of a line leave a  
 line break.
