@@ -8,7 +8,7 @@ markup test - this plain text
 
 ### This is a deeper heading (heading 3)
 
-######### 9 headings?
+###### 6 headings max
  
 Paragraphs are separated
 by a blank line.
