@@ -1,4 +1,4 @@
-# test_with_Meryl
+# test_with_Meryl & Benjamin
 markup test - this plain text
 **this is bold**
 *this is italic*
@@ -12,7 +12,7 @@ markup test - this plain text
 Paragraphs are separated
 by a blank line. but 
 can have
-as many carridgereturns
+as many carriagereturns
 in the raw text as
 you
 like.
