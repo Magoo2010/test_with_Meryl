@@ -8,11 +8,11 @@ Heading 2
 
 Heading 3
 
-HeadingG 4
+Heading 4
 
 Heading 5
 
-Heading 6 = max
+Heading 6 --> max
 
 Paragraphs are separated by a blank line. but can have as many carriage returns in the raw text as you like.
 
@@ -22,3 +22,4 @@ line break.
 Text attributes italic, italic, bold, bold, monospace.
 
 Horizontal rule:
+---
