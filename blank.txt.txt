@@ -1,1 +1,24 @@
-hello world
+test_with_Meryl & Benjamin
+
+markup test - this plain text this is bold this is italic
+
+Heading 1
+
+Heading 2
+
+Heading 3
+
+HeadingG 4
+
+Heading 5
+
+Heading 6 = max
+
+Paragraphs are separated by a blank line. but can have as many carriage returns in the raw text as you like.
+
+Two spaces at the end of a line leave a
+line break.
+
+Text attributes italic, italic, bold, bold, monospace.
+
+Horizontal rule:
